@@ -23,9 +23,10 @@ It’s the real story of building in web3: the wins, the chaos, and the lessons 
     </image>
     <podcast:locked>yes</podcast:locked>
     <itunes:author>Sachi Mihara, Diksha Lyer, Kenzi Watanabe</itunes:author>
-    <itunes:owner>
-      <itunes:name>Sachi Mihara, Diksha Lyer, Kenzi Watanabe</itunes:name>
-    </itunes:owner>
+      <itunes:owner>
+    <itunes:name>Sachi Mihara, Diksha Lyer, Kenzi Watanabe</itunes:name>
+    <itunes:email>info@unhashed.fm</itunes:email>
+      </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Business"/>
