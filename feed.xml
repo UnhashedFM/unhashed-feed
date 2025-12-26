@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://media.rss.com/style.xsl"?>
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+  <channel>
+    <title><![CDATA[Unhashed Podcast]]></title>
+    <link>https://rss.com/podcasts/unhashed-podcast</link>
+    <atom:link href="https://media.rss.com/unhashed-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <description><![CDATA[<p>-</p>]]></description>
+    <generator>RSS.com v4.5.0</generator>
+    <lastBuildDate>Fri, 26 Dec 2025 17:19:47 GMT</lastBuildDate>
+    <language>en</language>
+    <itunes:image href="https://media.rss.com/unhashed-podcast/20251226_021256_de4217b48f7ecdc5a4b89b2e1857aea9.png"/>
+    <podcast:guid>e0b29ec7-738d-5adc-970c-d48243519fa7</podcast:guid>
+    <image>
+      <url>https://media.rss.com/unhashed-podcast/20251226_021256_de4217b48f7ecdc5a4b89b2e1857aea9.png</url>
+      <title>Unhashed Podcast</title>
+      <link>https://rss.com/podcasts/unhashed-podcast</link>
+    </image>
+    <podcast:locked>yes</podcast:locked>
+    <itunes:author>Sachi Mihara, Diksha Lyer, Kenzi Watanabe</itunes:author>
+    <itunes:owner>
+      <itunes:name>Sachi Mihara, Diksha Lyer, Kenzi Watanabe</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Business"/>
+    <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title><![CDATA[Karan Sirdesai | Co-Founder and CEO of Mira Network : Building Reliable AI on the Blockchain]]></title>
+      <itunes:title><![CDATA[Karan Sirdesai | Co-Founder and CEO of Mira Network : Building Reliable AI on the Blockchain]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Unhashed Podcast, we speak with Karan Sirdesai, the Co-Founder of Mira Network, a decentralized AI infrastructure platform that's pioneering a new approach to reliable and safe artificial intelligence. Karan shares how Mira tackles the challenge of AI hallucinations, making intelligent systems more trustworthy for critical use cases in finance, healthcare, and beyond.Karan dives into his non-linear founder journey, from hustling in university and working with Balaji Srinivasan, to founding Mira alongside deep AI and crypto experts. You'll hear how the team discovered their "aha" moment through hands-on experimentation with GPU rentals and AI pipelines—and how this led them to a breakthrough solution using multiple models and consensus-based verification.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2414106</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2414106/unhashed-podcast/2025_12_26_15_41_08_e2732537-3c06-4276-ac79-052dfb28a870.mp3" length="46440840" type="audio/mpeg"/>
+      <guid isPermaLink="false">51a46d53-5279-4785-8feb-21918f26a922</guid>
+      <itunes:duration>2902</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 29 Dec 2025 11:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_031231_63f7bd438ea07660b192e04f61c336e9.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[David Minarsch | Co-Founder & CEO of Valory : The Rise of Autonomous Agents and the Future of Web3]]></title>
+      <itunes:title><![CDATA[David Minarsch | Co-Founder & CEO of Valory : The Rise of Autonomous Agents and the Future of Web3]]></itunes:title>
+      <description><![CDATA[<p>Join David Minarsch as he explores the concept of autonomy and its impact on human-machine relationships. He shares his journey into the crypto and AI space, including his work with <a target="_blank" rel="noopener noreferrer nofollow" href="http://Fetch.ai">Fetch.ai</a> and the founding of Valory and OLAS. The conversation highlights the rise of autonomous agents, their practical applications, and the challenges within the Web3 AI landscape. David also emphasizes the value of mission-driven teams and the open-source ethos of OLAS, designed to coordinate decentralized autonomous agents effectively.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2414095</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2414095/unhashed-podcast/2025_12_26_15_21_46_53c5494a-72ac-4c0a-943d-f54ee23024df.mp3" length="60505943" type="audio/mpeg"/>
+      <guid isPermaLink="false">9379d8a0-d1b3-4102-87fb-d86dfd4a47e2</guid>
+      <itunes:duration>3240</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 18 Oct 2025 19:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_031206_dd812a72f84c971c1197c21f8d5abd20.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Nick Emmons | Co-Founder and CEO of Allora Labs : The Synergies Between Web3 and AI]]></title>
+      <itunes:title><![CDATA[Nick Emmons | Co-Founder and CEO of Allora Labs : The Synergies Between Web3 and AI]]></itunes:title>
+      <description><![CDATA[<p>In this conversation, Nick Emmons, Co-Founder of Allora Labs, delves into the synergies between crypto and AI, exploring the potential for decentralized AI to create a collective intelligence network. Emmons outlines Allora Labs' mission, emphasizing their focus on AI-powered DeFi and innovative financial primitives. He also discusses the ongoing debate between open and closed AI systems and highlights the opportunities available for blockchain developers within the AI space. The discussion wraps up with Emmons sharing the milestones and developments at Allora Labs that excite him the most, underscoring the crucial role of markets in problem-solving. </p><p>We hope you enjoy Nick’s conversation with hosts Kenzi Watanabe, Sachi Mihara, and Diksha Lyer, where he talks in-depth about his Web3 founder journey.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2414089</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2414089/unhashed-podcast/2025_12_26_15_14_20_f30562c0-a328-488a-be08-21f4d6f28d0b.mp3" length="43780727" type="audio/mpeg"/>
+      <guid isPermaLink="false">57eb40b3-2ac8-42c9-8198-1641d80d8d9a</guid>
+      <itunes:duration>2297</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 31 Aug 2025 14:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_031252_a9fc173ce8a6bd0ebe482c483a5f1921.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Gabby Dizon | Co-Founder of Yield Guild Games : Tokenomics and In-Game Economies]]></title>
+      <itunes:title><![CDATA[Gabby Dizon | Co-Founder of Yield Guild Games : Tokenomics and In-Game Economies]]></itunes:title>
+      <description><![CDATA[<p>In this episode, Gabby Dizon, Co-Founder of Yield Guild Games (YGG), shares his journey from PC gamer to Web3 pioneer. </p><p>He discusses the challenges and future of Web3 gaming, highlighting AI's potential impact and the qualities needed for founders to succeed. Learn about YGG's evolution, their innovative on-chain guilds, and the key to mainstream adoption of Web3 games. Gabby Dizon is a game industry veteran with over 18 years of experience. He co-founded Yield Guild Games, a play-to-earn gaming guild and decentralized autonomous organization (DAO) that provides gamers all over the world an opportunity to access the NFT game assets needed to start playing blockchain games and earn crypto-based rewards. He is also a founding board member of the Blockchain Game Alliance. Gabby’s mission is to onboard millions of gamers so they can find opportunities in the digital world. He believes that the future of work is in the open Metaverse. </p><p>We hope you enjoy Gabby’s conversation with hosts Kenzi Watanabe, Sachi Mihara, and Diksha Lyer, where he talks in-depth about his Web3 founder journey.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2414085</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2414085/unhashed-podcast/2025_12_26_15_13_16_024e5a89-b91f-4554-b992-8cf69855a11e.mp3" length="54135037" type="audio/mpeg"/>
+      <guid isPermaLink="false">82ed99cd-e04f-43db-b865-10848c57b06a</guid>
+      <itunes:duration>2751</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 14 Jun 2025 16:30:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_031227_31af1b1d76beccabbfcb8ab6caa6f0bb.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Greg Osuri | Founder of Akash Network : Liberty, Community, and the Future of Decentralized AI]]></title>
+      <itunes:title><![CDATA[Greg Osuri | Founder of Akash Network : Liberty, Community, and the Future of Decentralized AI]]></itunes:title>
+      <description><![CDATA[<p>Greg Osuri, Founder of Akash Network, dives into the significance of liberty, sovereignty, and freedom in the decentralized web. Explore Greg's journey, the challenges he faced, and the importance of community in Web3. Learn about building a Web3 product, maintaining work-life balance for founders, and the differences between Web2 and Web3. Greg also shares his insights on open-source technology, decentralized AI, and the role of governments in AI decentralization. As cofounder and CEO of Akash Network, Greg has transformed the future of cloud computing. </p><p></p><p>Prior to Akash, Greg founded AngelHack, the world’s largest hackathon organization with over 100,000 developers across 50 cities worldwide. He launched his career at IBM and later designed Kaiser Permanente’s first cloud architecture. </p><p></p><p>We hope you enjoy Greg’s conversation with hosts Kenzi Watanabe, Sachi Mihara, and Diksha Lyer, where he talks in-depth about his Web3 X AI journey.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2414080</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2414080/unhashed-podcast/2025_12_26_15_08_43_d5643f7e-e952-4f28-a33e-39d7ca2cf90c.mp3" length="83282835" type="audio/mpeg"/>
+      <guid isPermaLink="false">21806567-0d9a-4b55-a040-be010e38728d</guid>
+      <itunes:duration>4728</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 21 May 2025 11:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_031245_c1a5334cfa27cc74f182a6b68c582ea8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ethan Sun | Co-Founder of MyShell : Empowering Creators at the Blockchain-AI Crossroads]]></title>
+      <itunes:title><![CDATA[Ethan Sun | Co-Founder of MyShell : Empowering Creators at the Blockchain-AI Crossroads]]></itunes:title>
+      <description><![CDATA[<p>Ethan Sun discusses his journey into the intersection of Blockchain &amp; AI, and the founding story of MyShell. He explains how MyShell aims to make AI models accessible to non-technical creators and foster a new wave of the creator economy. Ethan also shares insights on transitioning from Web2 to Web3, the role of blockchain in MyShell, and the Chinese perspective on crypto and AI. MyShell is building an AI consumer layer that connects users, creators, and open-source AI researchers. </p><p></p><p>We hope you enjoy Ethan’s conversation with hosts Kenzi Watanabe, Sachi Mihara, and Diksha Lyer, where he talks in-depth about his Web3 X AI journey.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2414075</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2414075/unhashed-podcast/2025_12_26_15_00_36_5005a929-743c-455c-b995-5a2fc735eebb.mp3" length="60367116" type="audio/mpeg"/>
+      <guid isPermaLink="false">07782631-55d8-4bba-af08-9063a212aaba</guid>
+      <itunes:duration>3335</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 29 Mar 2025 19:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_021255_ba1b0f91f72a2a2f77c86fcb207574e0.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[DC Builder | Research Engineer at Worldcoin Foundation: Proving Personhood In A Digital Era]]></title>
+      <itunes:title><![CDATA[DC Builder | Research Engineer at Worldcoin Foundation: Proving Personhood In A Digital Era]]></itunes:title>
+      <description><![CDATA[<p>DC Builder, Research Engineer at Worldcoin Foundation, shares the project's approach towards decentralization and its mission to democratize digital identity and finance globally, ensuring fair wealth distribution. He highlights the challenges of the web of trust and biometrics in verifying personhood, shedding light on the Semaphore protocol's innovative use. We also delve into the emerging ZKML space and other crypto-AI projects that are reshaping the landscape. </p><p></p><p>We hope you enjoy DC Builder’s conversation with hosts Kenzi Watanabe, Sachi Mihara, and Diksha Lyer, where he talks in-depth about his Web3 journey.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2414074</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2414074/unhashed-podcast/2025_12_26_14_58_02_38b72274-daf8-405c-8c5f-9622a9581f19.mp3" length="61963298" type="audio/mpeg"/>
+      <guid isPermaLink="false">61c8c0a1-e44a-4698-bb0a-077430190404</guid>
+      <itunes:duration>3476</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 06 Jan 2025 16:30:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_021221_8ab6f07ade1d379f61c39dfa30d104ed.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Richard Ma | Co-Founder and CEO of Quantstamp : Securing the Future of Web3]]></title>
+      <itunes:title><![CDATA[Richard Ma | Co-Founder and CEO of Quantstamp : Securing the Future of Web3]]></itunes:title>
+      <description><![CDATA[<p>Richard Ma, Co-founder and CEO of QuantStamp, shares his journey from working in the hedge fund industry to the world of Web3. Detailing the operational mechanics of QuantStamp, he highlights the changing customer base in the Web3 space and what makes Web3 startups successful in the long run.</p><p>Quantstamp is a global leader in blockchain security, on a mission to secure the future of web3. To date, it has performed more than 500 audits and secured over $200 billion in digital asset risk from hackers. Richard Ma is a former software engineer at Tower Research where he developed software that handled millions of dollars using extreme testing methods. He was inspired to found Quantstamp to improve security auditing after investing in the DAO and experiencing the aftermath firsthand. Richard aims to secure the future of blockchain technology through the Quantstamp protocol and better methods for secure enterprise blockchain deployments. </p><p></p><p>We hope you enjoy Richard’s conversation with hosts Kenzi Watanabe and Diksha Lyer where he talks in-depth about his Web3 founder journey.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2414005</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2414005/unhashed-podcast/2025_12_26_13_38_26_58ecca96-c932-4d38-a190-a784909dd9b0.mp3" length="53924875" type="audio/mpeg"/>
+      <guid isPermaLink="false">bd643865-5c4f-45c2-9760-d029069dae0c</guid>
+      <itunes:duration>3027</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>15</itunes:episode>
+      <podcast:episode>15</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 09 Jun 2024 11:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_011250_be8206bce687a352180cbd5371648694.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[David Tse | Co-Founder of BabylonChain : Scaling Bitcoin To Secure A Decentralised World]]></title>
+      <itunes:title><![CDATA[David Tse | Co-Founder of BabylonChain : Scaling Bitcoin To Secure A Decentralised World]]></itunes:title>
+      <description><![CDATA[<p>David Tse, Co-Founder of BablylonChain, shares the future of scaling the Bitcoin ecosystem with staking, the founding story of BabylonChain, and his journey from academia to now being a Web3 founder. With BabylonChain, bitcoin holders can earn yields from their idle bitcoins in a secure way: no third-party trust, no bitcoin bridging to any other chain. Bitcoin holders simply lock their bitcoins in a self-custodial way to gain the rights to validate PoS chains and earn yields as a return. </p><p></p><p>David Tse is a visionary electrical engineering expert who has made groundbreaking contributions to wireless communication, blockchain technology, and genomics research. He is a celebrated professor at Stanford University and a co-founder of BabylonChain, a blockchain project that is Scaling Bitcoin to secure the decentralized world. In addition, David is an advisor of Bain Capital Crypto, where he provides strategic guidance to the investment firm. </p><p></p><p>We hope you enjoy David’s conversation with hosts Kenzi Watanabe, Sachi Mihara, and Diksha Lyer where he talks in-depth about his Web3 founder journey.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2414002</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2414002/unhashed-podcast/2025_12_26_13_35_13_832f18d9-3bb5-41a1-aea1-252c3775e14b.mp3" length="51404528" type="audio/mpeg"/>
+      <guid isPermaLink="false">0710bd4a-a051-4e9f-bf81-b193848b997f</guid>
+      <itunes:duration>2749</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>14</itunes:episode>
+      <podcast:episode>14</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 30 May 2024 11:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_011239_a5d1e48895f2b25b3d4ea6f7ffbff132.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sergey Gorbunov | Co-Founder of Axelar Network : Scaling Interoperability Networks In Blockchain]]></title>
+      <itunes:title><![CDATA[Sergey Gorbunov | Co-Founder of Axelar Network : Scaling Interoperability Networks In Blockchain]]></itunes:title>
+      <description><![CDATA[<p>Sergey Gorbunov, co-founder of Axelar, shares the future of interoperability in Web3, the founding story of Axelar, and what drives him as a Web3 founder to keep innovating. Axelar is the programmable Web3 interoperability platform, scaling the next generation of internet applications to billions of users. </p><p></p><p>Sergey is the co-founder of Axelar and an Assistant Professor at the University of Waterloo. He was previously a founding team member at Algorand. He received his Ph.D. from MIT, where he was a Microsoft Ph.D. fellow. His Ph.D. dissertation was on designing cryptographic tools for the cloud using lattice-based cryptography. </p><p></p><p>We hope you enjoy Sergey’s conversation with hosts Kenzi Watanabe, Sachi Mihara, and Diksha Lyer where he talks in-depth about his Web3 founder journey.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2414000</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2414000/unhashed-podcast/2025_12_26_13_33_33_1822b42f-d514-45cd-8561-115b6d73fe84.mp3" length="47572690" type="audio/mpeg"/>
+      <guid isPermaLink="false">405e148e-91a0-448c-9a02-67d554db9b50</guid>
+      <itunes:duration>2548</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 07 May 2024 14:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_011206_0288148e8ca3657906d04ef1ef1d8f2c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Victor Ji | Co-Founder of Manta Network : Building Real World Use-Cases with Zero Knowledge]]></title>
+      <itunes:title><![CDATA[Victor Ji | Co-Founder of Manta Network : Building Real World Use-Cases with Zero Knowledge]]></itunes:title>
+      <description><![CDATA[<p>Victor Ji, the Co-Founder of Manta Network explains the concept of Zero-Knowledge (ZK) proofs and how Manta is delivering a seamless developer experience for ZK applications. He also shares the milestones and turning points in Manta's journey and the qualities he believes are important for Web3 founders to succeed. Manta Network is building a secure and interoperable future with zero knowledge with a mission to deliver the best developer experience that enables ZK applications. </p><p></p><p>Before his role as the Co-Founder of Manta in 2020, Victor worked as a Research Assistant at Harvard's Belfer Center where he gained expertise in international security, diplomacy, and technology policy. </p><p></p><p>We hope you enjoy Victor's conversation with hosts Kenzi Watanabe, Sachi Mihara, and Diksha Lyer where he talks in-depth about the founding story of Manta Network and his Web3 founder journey.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413997</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413997/unhashed-podcast/2025_12_26_13_32_21_983262a6-4f91-4701-89c2-5bbf6a637c74.mp3" length="50879514" type="audio/mpeg"/>
+      <guid isPermaLink="false">2cbeacab-0549-4632-be39-d8ee920d3dc5</guid>
+      <itunes:duration>2825</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 25 Apr 2024 16:30:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_011244_2d16c0f41fab5f682d982714868330ad.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sandy Peng | Co-Founder of Scroll : Building Layer 2 Solutions Intertwined With The Ethereum Roadmap]]></title>
+      <itunes:title><![CDATA[Sandy Peng | Co-Founder of Scroll : Building Layer 2 Solutions Intertwined With The Ethereum Roadmap]]></itunes:title>
+      <description><![CDATA[<p>Sandy Peng, Co-Founder of Scroll, discusses the Layer 2 scaling solutions in Web3, the founding story of Scroll, and how to create a successful Web3 project by focusing on just building. Scroll is a community-first native zkEVM Layer 2 solution, and an open source project working at the forefront of zero-knowledge research. </p><p></p><p>Sandy has rich experience in research, business development, and project strategy. Having worked as both a startup founder and blockchain investor, she has unique insights into the development, compliance, and application of blockchain technology and open-source technology. </p><p></p><p>We hope you enjoy Sandy’s conversation with hosts Kenzi Watanabe, Sachi Mihara, and Diksha Lyer where she talks in-depth about her Web3 founder journey and the early days of building Scroll.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413994</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413994/unhashed-podcast/2025_12_26_13_31_18_7d5114ce-816b-4cd5-9c1e-4cb219fa7098.mp3" length="50879514" type="audio/mpeg"/>
+      <guid isPermaLink="false">04ac15f0-763d-4b95-bfa2-1d4842ed2c6a</guid>
+      <itunes:duration>2825</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 14 Mar 2024 19:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_011241_512bbbc0943982cf2fc8819be0382e4f.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Chris Spadafora | Founder of BadgerDAO : Bringing Bitcoin To Defi]]></title>
+      <itunes:title><![CDATA[Chris Spadafora | Founder of BadgerDAO : Bringing Bitcoin To Defi]]></itunes:title>
+      <description><![CDATA[<p>Chris Spadafora, Founder of BadgerDAO, discusses decentralized governance, crypto tribalism, and his mission of bringing Bitcoin to the Defi ecosystem. BadgerDAO is an open-source, decentralized autonomous organization (DAO) that enables Bitcoin to be used as collateral across decentralized finance (DeFi) applications. </p><p></p><p>The DAO has its native token, BADGER which allows users to vote on proposals put forward by community members. Voting power is determined by the amount of BADGER owned, and proposals that receive enough votes are implemented on the platform. </p><p></p><p>We hope you enjoy Chris’ conversation with hosts Kenzi Watanabe, Sachi Mihara, and Diksha Lyer where he talks in-depth about the formation of BadgerDAO and his Web3 founder Journey.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413991</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413991/unhashed-podcast/2025_12_26_13_30_13_5aa1e356-b3e9-4510-98b4-3f7031113add.mp3" length="63458514" type="audio/mpeg"/>
+      <guid isPermaLink="false">843d02eb-15e2-4cc5-ac2c-ea0f8bed3109</guid>
+      <itunes:duration>3511</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 19 Feb 2024 16:30:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_011228_45ae42b05b77b2bcb6ab258d298f199b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Eli Ben-Sassoon | Founder of StarkWare : Scaling Blockchain With Zero Knowledge]]></title>
+      <itunes:title><![CDATA[Eli Ben-Sassoon | Founder of StarkWare : Scaling Blockchain With Zero Knowledge]]></itunes:title>
+      <description><![CDATA[<p>Eli Ben-Sasson, co-founder and President of StarkWare, discusses his journey into Web3, building blockchain solutions for scalability, and how StarkWare is working on onboarding the next billion users onto the blockchain. </p><p></p><p>StarkWare develops zero-knowledge proof technology that compresses information to address the blockchain's scalability problem. Before founding StarkWare, Eli was in core academia, earning his Ph.D. under Abel Prize winner Avi Wigderson and completing his postdoc from MIT and Harvard. His research focused on probabilistically checkable proofs (PCPs), and during the 2013 Bitcoin conference, he saw how his technology could address many of blockchain’s issues. </p><p></p><p>Today, StarkWare boasts three major technologies that significantly advance blockchain technology into the future. But Eli believes one of the biggest challenges will be to ensure that blockchain remains decentralized: <em>“Whenever you have a system of great value, some parties will benefit from it, and they will want to increase their hold on it. </em></p><p></p><p><em>The whole point of blockchain and Web3 is about resisting that or finding ways to distribute and broaden the influence of various corners of society on it. I don’t know of a good solution today, but it’s the biggest long-term challenge."</em> </p><p></p><p>We hope you enjoy Eli's conversation with hosts Kenzi Watanabe, Sachi Mihara, and Diksha Lyer where he talks in depth about the Stakware story, scaling blockchain with zero knowledge, and his founder journey in Web3.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413981</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413981/unhashed-podcast/2025_12_26_13_25_39_b706a2cb-dc7f-44f6-8374-e2be9c8c41fa.mp3" length="55232840" type="audio/mpeg"/>
+      <guid isPermaLink="false">964226a4-03d8-4491-9281-a0b0c0acbaf9</guid>
+      <itunes:duration>2854</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 06 Feb 2024 14:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_011202_95263d7ed5a810009712a379462a5690.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sreeram Kannan | Founder of EigenLayer : Blockchain Brings Trust to Tech Innovation]]></title>
+      <itunes:title><![CDATA[Sreeram Kannan | Founder of EigenLayer : Blockchain Brings Trust to Tech Innovation]]></itunes:title>
+      <description><![CDATA[<p>Sreeram Kannan, co-founder and CEO of EigenLayer, discusses his journey into Web3, why he left academia to build a blockchain product, and how EigenLayer is solving some of the biggest challenges in the crypto ecosystem. </p><p></p><p>Sreeram's journey into the realm of Web3 began with a deep-seated belief in the power of innovation to drive positive change. He recognized the potential of blockchain technology to democratize innovation and empower individuals to create value without the need for established reputations or access to exclusive resources. </p><p></p><p>This unwavering belief led Sreeram to abandon his academic career and embark on his entrepreneurial journey into the world of crypto.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413968</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413968/unhashed-podcast/2025_12_26_13_21_33_67fcc55b-9b39-4dff-9449-b74e122344c4.mp3" length="67783242" type="audio/mpeg"/>
+      <guid isPermaLink="false">98226933-3fb7-431e-b397-66ab156b54d4</guid>
+      <itunes:duration>3649</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 28 Jan 2024 11:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_011247_14b6970a11b3023f6403555b274dd2d7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Aniket Jindal | Co-Founder of Biconomy: Building Tools to Make Web3 Accessible to Everyone]]></title>
+      <itunes:title><![CDATA[Aniket Jindal | Co-Founder of Biconomy: Building Tools to Make Web3 Accessible to Everyone]]></itunes:title>
+      <description><![CDATA[<p>Aniket Jindal, Co-founder at Biconomy, delves into the qualities that define successful Web3 founders, the dynamics of bear markets, and the role of community management. He shared his insights into Biconomy's decentralized relay network and tokenomics and the critical significance of user experience (UX) in the blockchain ecosystem.</p><p>Biconomy is a multi-chain relay infrastructure and transaction network that aims to make Web3 user-friendly, accessible, and affordable. Learn about the challenges of crypto adoption and how Biconomy is simplifying user experiences. Explore the pivotal moments and lessons learned in the startup world, from Polygon adoption to the importance of staying connected with customers.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413954</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413954/unhashed-podcast/2025_12_26_13_17_23_898cbdfe-9a30-467a-ba9c-55276392b095.mp3" length="54577989" type="audio/mpeg"/>
+      <guid isPermaLink="false">d3c4d191-5d2d-4bac-aed2-3a6a45db0045</guid>
+      <itunes:duration>3411</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 22 Dec 2023 14:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_011219_a4d3890cf62503683bd62976c6d35a78.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Beryl Li | Co-Founder of Yield Guild Games: From Games to Guilds - Navigating the Web3 Journey]]></title>
+      <itunes:title><![CDATA[Beryl Li | Co-Founder of Yield Guild Games: From Games to Guilds - Navigating the Web3 Journey]]></itunes:title>
+      <description><![CDATA[<p>Beryl Li is the Co-Founder of Yield Guild Games (YGG), the largest decentralized network of gaming guilds. During our chat, we discussed Beryl Li's unique journey into the Web3 space and her contributions to the industry. She shared her insights into the role of guilds in shaping the future of Web3, emphasizing Web3 education and driving the adoption of blockchain tech. We also talked about the significance of native tokens in shaping the decentralized gaming landscape and the art of community management within YGG's vast decentralized network.</p><p>Primarily focusing on Web3 education &amp; blockchain games, YGG has reshaped the gaming landscape. It caters to an ever-expanding community comprising gamers and blockchain enthusiasts alike.</p><p>Beryl's leadership shines brightly, earning her well-deserved recognition like a coveted spot in J.P. Morgan's Top 100 Women-Powered Businesses in the Asia-Pacific region. She's also a proud member of the inaugural cohort of Technology Pioneers and Unicorns at the World Economic Forum. Her journey is nothing short of an inspiration, particularly for women-of-color founders in the Web3 sphere.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413966</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413966/unhashed-podcast/2025_12_26_13_21_14_0337a679-6114-4eb5-b9d2-57c149894d26.mp3" length="53260850" type="audio/mpeg"/>
+      <guid isPermaLink="false">528e1c61-75eb-47f3-a127-5af3e1a54790</guid>
+      <itunes:duration>3150</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 30 Nov 2023 14:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_011233_a9888a742ec11bf1ed99f278ee38b694.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ryan Kim | Partner at Hashed: Cracking the Code on Web3 Investments in Asia]]></title>
+      <itunes:title><![CDATA[Ryan Kim | Partner at Hashed: Cracking the Code on Web3 Investments in Asia]]></itunes:title>
+      <description><![CDATA[<p>We spoke to Ryan Sungho Kim, a Partner at Hashed. He assesses deals from Asia and focuses on applications, corporate finance and enterprise. Previously, Ryan successfully exited his company LOOKET, a mobile solution for SME to Recobell (a Big Data company). Ryan was in charge of the development and planning of recommendation systems in his previous company, and he realized that the data space has many vulnerabilities. This led him to blockchain and ultimately made him co-found Hashed. </p><p></p><p>Founded by a team of serial entrepreneurs and engineers in 2017, Hashed is the preeminent blockchain firm in Asia with a portfolio that spans the globe. We started Hashed because we saw an opportunity for blockchain to not only reinvent the global financial system, but the very fabric of the internet itself. This is one of the most consequential moments in human history — an opportunity to overlay the power of digital networks onto human ones, and to usher in a future where technology empowers individuals, and not the other way around.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413960</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413960/unhashed-podcast/2025_12_26_13_20_24_166e0e36-e864-4831-be35-2a285379b0ce.mp3" length="48230863" type="audio/mpeg"/>
+      <guid isPermaLink="false">d998586b-5566-4610-9af2-cb9f76d89049</guid>
+      <itunes:duration>2903</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 04 Nov 2023 19:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_011250_366909db4cfa5dbc59287fb57d0cee31.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Jeff “Jiho” Zirlin | Co-Founder of Axie Infinity: Turning Your Web3 Community into True Evangelists]]></title>
+      <itunes:title><![CDATA[Jeff “Jiho” Zirlin | Co-Founder of Axie Infinity: Turning Your Web3 Community into True Evangelists]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Unhashed Podcast, hosts Kenzi Watanabe, Sachi Mihara, and Diksha Lyer speak to Jiho about his early days in Web3, starting Sky Mavis and Axie Infinity with Trung Nguyen, Tu Doan, Aleksander Larsen, and Andy Ho.</p><p>Jiho talks about building in the bear market, being “small and unrecognized” yet confident in their founding team, vision, and community. </p><p>The team wanted to build a Web3 community that would reward those with the technical knowledge and those willing to learn about the technology. He perfectly sums up their founding principle: “Something that can play into childhood nostalgia is going to be a compelling way to educate people on Web3.”</p><p>Jiho also talks to us about the obstacles the Axie Infinity team faced while building and maintaining their product. One of those was working with the community on expectations around the company’s roadmap as they put out features. In fact, it was one of his biggest learnings:</p><p>“I think we're always thinking about the intended action that we want to coordinate with the community and the outside world. And how do we ensure that the things that we're launching and saying, that we can actually do that? I think it's more important in Web3… How do you turn your community into your best evangelists? And how do you have them doing the things that are most beneficial and helpful for the network, which benefits everybody? I think an understanding of aligned incentives and different economic models and the cold start problem is something that a lot of Web3 startups have to think about.”</p><p>Today, Axie Infinity is one of the biggest Play2Earn NFT games in the crypto world. Sky Mavis recently closed a $152 million Series B round eyeing Axie’s expansion, which brings the company valuation to $3 billion. </p><p>Listen to this episode as Jiho discusses the Play2Earn economy, his responsibilities as Chief Growth Officer at Axie Infinity, and more.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413949</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413949/unhashed-podcast/2025_12_26_13_14_38_91b33f06-d6af-4569-ac1e-d697992a48ee.mp3" length="54242943" type="audio/mpeg"/>
+      <guid isPermaLink="false">a1296634-5d2b-4a9c-ae73-d4b40479cb8e</guid>
+      <itunes:duration>3214</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 21 Oct 2023 19:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_011254_5ee26b59d7181f5e1defe64b43cd1c65.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Yat Siu | Co-Founder of Animoca Brands: The North Star of Web3 is Digital Ownership]]></title>
+      <itunes:title><![CDATA[Yat Siu | Co-Founder of Animoca Brands: The North Star of Web3 is Digital Ownership]]></itunes:title>
+      <description><![CDATA[<p>Yat Siu, Founder of Animoca Brands discusses how he went from learning music to becoming a tech entrepreneur, the ventures he has worked on and launched, his early days in Web3, his advice for Web3 founders, and so much more.</p><p>Coming from a musician family, Yat Siu was training to be a musician when he wrote software on his Atari ST in the 1980s to read music notations. While his software did not win him any marks with his teachers, he found that others used and appreciated it enough to pay him for it.</p><p>Soon, Siu would begin working for Atari themselves. He would also go on to work for Silicon Graphics and AT&amp;T. His earliest tech entrepreneurial pursuit was establishing Hong Kong Cybercity (the first free web page and e-mail provider in Asia, later renamed Freenation). His foray into Web3 was, thus, inevitable.</p><p>In 2014, Siu co-founded Animoca Brands, which now uses blockchain and artificial intelligence to build games and other products. This occurred when Siu and his co-founders understood that NFTs enabled digital ownership of items. In fact, this principle led to Animoca Brands pivoting to blockchain.</p><p>“It’s a belief and conviction that came on a theory we had, which is ownership. So that’s why we always talked about digital ownership, which eventually became treated as property rights back in 2018. The principle of ownership creates network effects in which people build and compose on top will become so large that it basically becomes unstoppable."</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413940</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413940/unhashed-podcast/2025_12_26_13_09_23_f77aa930-301d-470d-895a-44ee4efe93f5.mp3" length="79760098" type="audio/mpeg"/>
+      <guid isPermaLink="false">2c83e5cd-484e-4ff1-9e65-376b83d2affd</guid>
+      <itunes:duration>4812</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 22 Sep 2023 19:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_011240_b5ba85c3f2a1043d640cd3bf2ef9120e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Lily Liu | President of The Solana Foundation: Why Blockchain Ecosystems are More Like Cities than Companies]]></title>
+      <itunes:title><![CDATA[Lily Liu | President of The Solana Foundation: Why Blockchain Ecosystems are More Like Cities than Companies]]></itunes:title>
+      <description><![CDATA[<p>Lily Liu is the President of the Solana Foundation. She is an entrepreneur and investor focused on the cryptocurrency industry. She has a background as a CFO and operating executive in the US, China, and throughout emerging markets. Lily is the Co-Founder of Anagram, and part of the founding team of Osmosis, and an advisor to Brave. Previously, Lily co-founded <a target="_blank" rel="noopener noreferrer nofollow" href="http://Earn.com">Earn.com</a> which was acquired by Coinbase in 2018. She believes that blockchain ecosystems are more like cities than companies. “I think trying to operate a blockchain like a company is where things start and end in terms of being successful on Web3.” Tune in to discover Lily's remarkable journey into the crypto space, from initial skepticism to groundbreaking success.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413938</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413938/unhashed-podcast/2025_12_26_13_07_53_3f3d32c2-23c1-44a3-81d8-3f072dfdb233.mp3" length="65180083" type="audio/mpeg"/>
+      <guid isPermaLink="false">7cb1b9d6-6210-4888-bda8-56b3d4c083ae</guid>
+      <itunes:duration>3943</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 02 Sep 2023 11:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_011208_5aaf7e442965a817c502cc37b127e19f.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Jaynti Kanani | Co-Founder of Polygon: From Underdog to Champion]]></title>
+      <itunes:title><![CDATA[Jaynti Kanani | Co-Founder of Polygon: From Underdog to Champion]]></itunes:title>
+      <description><![CDATA[<p>Polygon is one of crypto's greatest underdog stories if not all of tech. And it all boils down to what makes one of its co-founders, Jaynti “JD” Kanani, a believer in Web3: that all you need is a laptop and an internet connection to build anything.</p><p>“You don’t need to be out there; put your name or face anywhere. You don’t have to go to Stanford or any big college. You don’t even have to go to school to be in Web3 because I see people in smaller villages from India building on Web3,” says JD.</p><p>In this episode, JD speaks about getting into Web3, scaling Polygon, and what he expects and would like to see for the future of Web3.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413935</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413935/unhashed-podcast/2025_12_26_13_05_04_39b48536-9aee-4bea-9020-392ade7c2ae7.mp3" length="60325652" type="audio/mpeg"/>
+      <guid isPermaLink="false">f24f74ce-e249-4e29-86f1-9c94043ae36b</guid>
+      <itunes:duration>3221</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 05 Aug 2023 11:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_011226_e23cbc89c7d1da749058ab7d0623b35a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Illia Polosukhin | Co-Founder of NEAR Protocol: Scaling an L1 in a Bear Market]]></title>
+      <itunes:title><![CDATA[Illia Polosukhin | Co-Founder of NEAR Protocol: Scaling an L1 in a Bear Market]]></itunes:title>
+      <description><![CDATA[<p>In this week’s episode of Unhashed Podcast, Kenzi Watanabe, and Diksha Lyer speak to Illia Polosukhin, the Co-Founder of NEAR Protocol. He discusses NEAR’s creation, what it takes to have true scalability in Web3, and building through a bear market.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413932</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413932/unhashed-podcast/2025_12_26_13_02_26_c03874fa-9fac-452b-9077-c580b8218d38.mp3" length="53551073" type="audio/mpeg"/>
+      <guid isPermaLink="false">ae3c3cab-e397-459b-8853-a4898f57354e</guid>
+      <itunes:duration>3198</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 28 Nov 2023 11:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_011250_7ade75efb1dc8e93e6643164f4f01025.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Alex Svanevik | Co-Founder of Nansen: From Data Scientist to Web3 Founder]]></title>
+      <itunes:title><![CDATA[Alex Svanevik | Co-Founder of Nansen: From Data Scientist to Web3 Founder]]></itunes:title>
+      <description><![CDATA[<p>In this epsiode, Alex Svanevik shares his journey from data scientist to Web3 Founder, the business model of <a target="_blank" rel="noopener noreferrer nofollow" href="http://Nansen.ai">Nansen.ai</a>, and how to scale a user-centric product in Web3.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413927</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413927/unhashed-podcast/2025_12_26_12_58_11_57e8ac0f-77f6-4f18-89de-ca6c97899dfb.mp3" length="46388079" type="audio/mpeg"/>
+      <guid isPermaLink="false">541a672d-4370-4d50-9a2f-f1295a97cbcc</guid>
+      <itunes:duration>2899</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 31 Oct 2023 19:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_121208_3c0c54ea13d63b936c83a28fbb0fd68e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Matthew Gould | Founder & CEO of Unstoppable Domains: Building a Web3 Unicorn Without a Token]]></title>
+      <itunes:title><![CDATA[Matthew Gould | Founder & CEO of Unstoppable Domains: Building a Web3 Unicorn Without a Token]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Unhashed Podcast, Kenzi Watanabe, Sachi Mihara, and Diksha Lyer speak to Matthew Gould, the CEO of Unstoppable Domains. He discusses building a digital identity-focused Web3 company, what founders need to focus on for fundraising, and why he thinks token funding may be harmful to protocols. </p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413926</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413926/unhashed-podcast/2025_12_26_12_57_07_4ca4880a-7252-4d21-bfa0-2bd2e1f8b5e5.mp3" length="48718202" type="audio/mpeg"/>
+      <guid isPermaLink="false">23f38229-54a9-4318-9f74-96f0d64467c4</guid>
+      <itunes:duration>3044</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 19 Sep 2023 19:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_121204_1916d67f9614ebcff3323441d2a7f8c7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Harsh Rajat | Founder of Push Protocol: Web3 Market Sentiment, Raising Funds, & L1 wars]]></title>
+      <itunes:title><![CDATA[Harsh Rajat | Founder of Push Protocol: Web3 Market Sentiment, Raising Funds, & L1 wars]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Unhashed Podcast, Kenzi Watanabe, Diksha Lyer, and Sachi Mihara speak to Harsh Rajat, Founder of Push Protocol. Push Protocol is the communication protocol of web3. It enables cross-chain notifications and messaging for dapps, wallets, and services tied to wallet addresses. In a chat with us, he discusses how they approached Ethereum Foundation for funding, their learnings in community building, mentors in the crypto ecosystem, and more.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413923</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413923/unhashed-podcast/2025_12_26_12_55_47_5bfb9acf-5512-4f2e-a838-bcb24834d2e1.mp3" length="78921186" type="audio/mpeg"/>
+      <guid isPermaLink="false">0eec5439-7164-4534-8290-dc6bf24a9668</guid>
+      <itunes:duration>4932</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 19 Aug 2023 14:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_121244_68e8f6555b2ec5a96301213eba78e1fd.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Jack Lu | Co-Founder of Magic Eden: Going Multi-Chain, Building for Web3 and the Future of NFTs]]></title>
+      <itunes:title><![CDATA[Jack Lu | Co-Founder of Magic Eden: Going Multi-Chain, Building for Web3 and the Future of NFTs]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Unhashed Podcast, Kenzi Watanabe, Diksha Lyer and Sachi Mihara speak to Jack Lu, CEO and one of the four co-founders of Magic Eden. Before co-founding Magic Eden, Jack worked at FTX, Google, and Boston Consulting Group.  Magic Eden is an NFT marketplace launched in September 2021 and serves as a home base for SOL NFT collections. Initially launched on the Solana blockchain, it has since become multi-chain by integrating Ethereum-based NFT collections. In November 2022, Magic Eden added Polygon as their third supported chain, committing steadfastly to their vision of a multi-chain future.  Since it was launched, Magic Eden has been lauded for its creator and community-focused tools, and was one of the first NFT marketplaces to offer the Launchpad feature to its users, which makes it easier for creators to create, mint, market, and successfully launch products.  </p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413917</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413917/unhashed-podcast/2025_12_26_12_47_48_d9a1b277-0388-4ba3-9368-a25b56716f36.mp3" length="54290851" type="audio/mpeg"/>
+      <guid isPermaLink="false">5dde79b4-1124-486e-9680-333320edbe77</guid>
+      <itunes:duration>3393</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 14 Jul 2023 16:30:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_121245_1da999a338767acf658a08da21284f05.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Chris Gonsalves | CEO of Community Gaming: Web3 Gaming Ecosystems and eSports]]></title>
+      <itunes:title><![CDATA[Chris Gonsalves | CEO of Community Gaming: Web3 Gaming Ecosystems and eSports]]></itunes:title>
+      <description><![CDATA[<p>In this week’s episode of Unhashed Podcast, Kenzi Watanabe and Diksha Lyer speak to Chris Gonsalves, the CEO of Community Gaming. He discusses how Community Gaming was created, how the Web3 gaming ecosystem differs from traditional eSports, and how Web3 gaming will change in the future.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413920</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413920/unhashed-podcast/2025_12_26_12_49_47_4c5a21f1-940c-4a34-82d2-c11983f425bb.mp3" length="61835106" type="audio/mpeg"/>
+      <guid isPermaLink="false">1efac4ea-044c-487f-95f8-2d94adb6e32e</guid>
+      <itunes:duration>3838</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 28 Jun 2023 14:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_121205_7e1cbac4b0e65dcf22b0f6bf7a7a65b3.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sandeep Nailwal | Co-Founder of Polygon: Setbacks, Community Building and Rebranding Polygon]]></title>
+      <itunes:title><![CDATA[Sandeep Nailwal | Co-Founder of Polygon: Setbacks, Community Building and Rebranding Polygon]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Unhashed Podcast, Kenzi Watanabe and Diksha Lyer speak to Sandeep Nailwal on his entire journey with Polygon so far. He discusses how he got into Crypto, his commitment to the developer community, and what the future looks like for Web3 today.</p><p>Website: <a target="_blank" rel="noopener noreferrer nofollow" href="https://unhashed.fm">unhashed.fm</a></p><p>Twitter: @UnhashedFM</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413918</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413918/unhashed-podcast/2025_12_26_12_48_42_486e4c4c-6dd3-4af9-aac0-da79ea07fa27.mp3" length="51674189" type="audio/mpeg"/>
+      <guid isPermaLink="false">4176bb23-a246-43bb-8a63-8fee699ef12c</guid>
+      <itunes:duration>3217</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 03 Jun 2023 11:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_121206_74a7d7e438f5495bcc895549e98a1263.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Lucas Vogelsang | Co-Founder of Centrifuge: The Future of Defi]]></title>
+      <itunes:title><![CDATA[Lucas Vogelsang | Co-Founder of Centrifuge: The Future of Defi]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Unhashed Podcast, Kenzi Watanabe and Diksha Lyer speak to Lucas Vogelsang, CEO, and Co-Founder of Centrifuge, focusing on bringing Real World Assets to Defi since the early days of Ethereum. During the discussion, Lucas covers the future of Defi, the Polkadot ecosystem, and his experiences of being a founder in the Web3 bear market.  </p><p>Lucas had always been passionate about computers and coding. But, in 2017, after working in the tech space for seven years, he decided that he wanted to revolutionize the finance industry and use blockchain to build the backbone for financial transactions. That’s how Centrifuge was born and became a platform to help people access capital for future needs.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413912</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413912/unhashed-podcast/2025_12_26_12_42_04_1a7879ee-b840-445a-9fcf-ddd6b1aeeb30.mp3" length="52870843" type="audio/mpeg"/>
+      <guid isPermaLink="false">beb42af5-067f-48c3-92c6-27b1dc9f3f5c</guid>
+      <itunes:duration>3295</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 20 May 2023 16:30:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_121228_5219d9350ddcb019ef8a8938b8902f05.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sota Watanabe | Co-Founder of Astar Network : Web3 Valuations and the Future of Decentralization]]></title>
+      <itunes:title><![CDATA[Sota Watanabe | Co-Founder of Astar Network : Web3 Valuations and the Future of Decentralization]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Unhashed Podcast, Kenzi speaks to Sota Watanabe, Founder of Astar Network, on being a Japanese founder in the crypto world, parameters that affect Web3 company valuations the most, the multichain future and the exciting new projects at Astar. Here are edited excerpts of the episode.</p><p>Before Sota Watanabe founded Astar Network in Japan in 2018, he studied information technology at the San Francisco State University in the US. He then worked at a blockchain startup,  Chronicled, in the San Francisco Bay Area.  After returning to Japan, he worked as a blockchain researcher at the University of Tokyo. But when Gavin Wood, the creator of Ethereum and Polkadot, visited Japan and talked about Web3, Sota decided to make Astar the Future of Smart Contracts for Multichain Hub on the Polkadot blockchain network.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413908</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413908/unhashed-podcast/2025_12_26_12_39_35_b5b6cc55-e4ef-4b1e-8526-c62cff40c565.mp3" length="83455177" type="audio/mpeg"/>
+      <guid isPermaLink="false">7ca0a3a8-a9a2-441a-aed9-a2059d3de903</guid>
+      <itunes:duration>5200</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 17 Apr 2023 16:30:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_121243_d9661390f8a101d48ad6002399129942.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Nischal Shetty | Founder of Shardeum: Building in Web3 and the Importance of Community]]></title>
+      <itunes:title><![CDATA[Nischal Shetty | Founder of Shardeum: Building in Web3 and the Importance of Community]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Unhashed Podcast, Kenzi Watanabe and Diksha Lyer speak to Nischal Shetty, Founder of WazirX and Shardeum, on decentralization, the right way to build communities, and making it in web 3.</p><p>Before Nischal launched WazirX and Shardeum, he started his entrepreneurial journey by creating a social media company (what began as JustUnfollow is now Crowdfire) in 2010. He was a software developer, and before 2010, he had a day job and worked on his app on the weekends and any free time he had. This social media app was based on the idea that most people needed a single account to manage their Instagram, FB, and other social media pages. The app was successful and got 20 million users. In 2017, the large social networks started changing many rules, which affected all the businesses built on their platforms. That’s when Nischal decided that he would build his next projects on a decentralized platform.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413906</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413906/unhashed-podcast/2025_12_26_12_38_47_068030ab-26c8-4907-9025-68c485a1746a.mp3" length="83833805" type="audio/mpeg"/>
+      <guid isPermaLink="false">ea0ff7c7-c31d-42cd-a072-5fc9f3b2ef22</guid>
+      <itunes:duration>5222</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 16 Mar 2023 11:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_121243_63d3c0d2730655f57effa2ec9fbc6c4a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Andrew Durgee | President of Republic Crypto: Building a Fund and Volatile Markets]]></title>
+      <itunes:title><![CDATA[Andrew Durgee | President of Republic Crypto: Building a Fund and Volatile Markets]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Unhashed Podcast, Kenzi Watanabe speaks to Andrew Durgee on the work Republic is doing, its various arms, the current market cycle, the impact of the recent Terra-Luna crash, and why Republic has zero attrition.</p><p>In terms of structure Republic has four different companies - a holding company, Republic Retail, Republic Capital, and Republic Crypto. Its mission has been to democratize finance and increase access and inclusion. But the regulatory framework makes it very difficult for retail investors to invest in early-stage startups in the US. The framework is based on an accreditation system with a series of requirements that need to be satisfied for an investor to participate in an early-stage venture. These include an average annual income above $200,000 or an average household income above $300,000 or a net worth of $1 mn and a few other parameters that keep a lot of retail investors out.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413905</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413905/unhashed-podcast/2025_12_26_12_32_33_f15fed0b-a100-415d-9858-05d006b7dfec.mp3" length="72115804" type="audio/mpeg"/>
+      <guid isPermaLink="false">7a71cc31-9fad-409f-b53d-fedadcec7ddc</guid>
+      <itunes:duration>4497</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sat, 11 Feb 2023 19:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_121242_6e0b2b38edd66fe15a9bf7f8941fee2e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ciara Sun | Founder and Managing Partner of C² Ventures: Investing in Web3 Founders, Valuations, and Women in Crypto]]></title>
+      <itunes:title><![CDATA[Ciara Sun | Founder and Managing Partner of C² Ventures: Investing in Web3 Founders, Valuations, and Women in Crypto]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Unhashed Podcast, Kenzi Watanabe and Sachi Mihara speak to Ciara Sun, Founder &amp; Managing Partner at <strong>C²</strong> Ventures, on being a woman in web3, the challenges she faced, and the road ahead for her investment firm.</p><p>Before she dived into the world of web3, she was a management consultant with Boston Consulting Group and Deloitte. Her journey to discovering crypto began in New York in 2017 when the city had become a hub for investors and entrepreneurs interested in blockchain. Having spent years working in banking, capital markets, and private equity, she understood how crucial digital assets and blockchain were for making the global economy more inclusive. After working at the crypto exchange, Huobi, in international business development, partnerships, and leading the global markets institutional business unit, decided to launch her firm, C² Ventures. The company focuses on empowering the creators of the next-generation web3 and metaverse applications.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413919</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413919/unhashed-podcast/2025_12_26_12_49_41_b784c64e-d18d-46f8-8939-1bf3b1d37731.mp3" length="57882000" type="audio/mpeg"/>
+      <guid isPermaLink="false">d3d6ba28-b3de-42e0-916f-5d1c0b4d6d7b</guid>
+      <itunes:duration>3613</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 24 Jan 2023 11:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_121255_477c790065b3a85db74d17d76512d94b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Miles Anthony | Founder of Decentral Games: Building and Sustaining Play-to-Earn in the Metaverse]]></title>
+      <itunes:title><![CDATA[Miles Anthony | Founder of Decentral Games: Building and Sustaining Play-to-Earn in the Metaverse]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Unhashed Podcast, Kenzi Watanabe talks to Miles Anthony, Founder of Decentral Games. <strong>Decentral Games</strong> builds games that give players economic freedom through aligned incentives, self-custody and delegation of yield-bearing metaverse assets.</p><p>The game first launched its closed beta in September 2019 and currently includes poker, blackjack, roulette, backgammon, and slots. In a candid conversation, Miles shares his journey of building play-and-earn poker in the metaverse, its search for establishing product-market fit, the future of Web3 and more.</p><p>This episode was supported by Diksha Lyer and Sachi Mihara. </p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2413903</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2413903/unhashed-podcast/2025_12_26_12_25_08_37ffac81-b180-4a8e-8c0c-0b60d89eef17.mp3" length="74308050" type="audio/mpeg"/>
+      <guid isPermaLink="false">e974904e-0641-4261-9ca8-1475ecb09706</guid>
+      <itunes:duration>4628</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 05 Dec 2022 11:00:00 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251226_121216_076a20411d31ae20b7ed8c4038e6471a.jpg"/>
+    </item>
+  </channel>
+</rss>
