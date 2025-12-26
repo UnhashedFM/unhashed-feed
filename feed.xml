@@ -6,7 +6,11 @@
     <link>https://rss.com/podcasts/unhashed-podcast</link>
     <atom:link href="https://media.rss.com/unhashed-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-    <description><![CDATA[<p>-</p>]]></description>
+   <description><![CDATA[Unhashed Podcast, a podcast series from the Unhashed Team, gives listeners rare, behind-the-scenes access to the founders building the most important companies in web3.
+
+In long-form, no-rush conversations, we go past the headlines and into what it actually takes to build: how they first got pulled into crypto, what they shipped (and what broke), how they hired and scaled teams, the decisions that almost killed the company — and the moves that made it work.
+
+It’s the real story of building in web3: the wins, the chaos, and the lessons you don’t get in public threads.]]></description>
     <generator>RSS.com v4.5.0</generator>
     <lastBuildDate>Fri, 26 Dec 2025 17:19:47 GMT</lastBuildDate>
     <language>en</language>
