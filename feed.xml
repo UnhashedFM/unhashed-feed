@@ -12,7 +12,7 @@ In long-form, no-rush conversations, we go past the headlines and into what it a
 
 It’s the real story of building in web3: the wins, the chaos, and the lessons you don’t get in public threads.]]></description>
     <generator>RSS.com v4.5.0</generator>
-    <lastBuildDate>Fri, 26 Dec 2025 18:49:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2025 10:31:31 GMT</lastBuildDate>
     <language>en</language>
     <itunes:image href="https://img.rss.com/unhashed-podcast/472/20251226_061231_1a52682d483796faa985d067a369e16b.jpg"/>
     <podcast:guid>e0b29ec7-738d-5adc-970c-d48243519fa7</podcast:guid>
@@ -31,6 +31,23 @@ It’s the real story of building in web3: the wins, the chaos, and the lessons 
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Business"/>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title><![CDATA[Uma Roy | Co-Founder of Succinct Labs : Why Zero Knowledge is Key to Scaling Crypto]]></title>
+      <itunes:title><![CDATA[Uma Roy | Co-Founder of Succinct Labs : Why Zero Knowledge is Key to Scaling Crypto]]></itunes:title>
+      <description><![CDATA[<p>Uma Roy delves into her journey in the Web3 space, the motivations behind founding Succinct Labs, and the importance of zero-knowledge proofs (ZKPs) for the scalability and privacy of crypto projects. She explains the inception and growth of Succinct Labs in San Francisco, emphasizing the team's preference for in-person collaboration. She also discusses the challenges encountered while developing SP1, a ZK virtual machine, and the solutions they devised. </p><p></p><p>We hope you enjoy Uma's conversation with hosts Kenzi Watanabe and Diksha Lyer, where she talks in-depth about her Web3 founder journey.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2417852</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2417852/unhashed-podcast/2025_12_29_10_28_04_f9600390-a8a2-458b-8fc1-b7ba1f78570f.mp3" length="53076783" type="audio/mpeg"/>
+      <guid isPermaLink="false">339c0f35-065e-4bee-b973-ab36e99c8f7b</guid>
+      <itunes:duration>2878</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 29 Dec 2025 10:28:33 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251229_101229_e505fa05236e181af1569f70a4f748aa.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Karan Sirdesai | Co-Founder and CEO of Mira Network : Building Reliable AI on the Blockchain]]></title>
       <itunes:title><![CDATA[Karan Sirdesai | Co-Founder and CEO of Mira Network : Building Reliable AI on the Blockchain]]></itunes:title>
