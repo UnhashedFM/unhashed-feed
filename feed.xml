@@ -12,7 +12,7 @@ In long-form, no-rush conversations, we go past the headlines and into what it a
 
 It’s the real story of building in web3: the wins, the chaos, and the lessons you don’t get in public threads.]]></description>
     <generator>RSS.com v4.5.0</generator>
-    <lastBuildDate>Fri, 29 Dec 2025 10:31:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Dec 2025 12:31:31 GMT</lastBuildDate>
     <language>en</language>
     <itunes:image href="https://img.rss.com/unhashed-podcast/672/20251229_121205_584459d09d9abcc25cc5ccd621433806.jpg"/>
     <podcast:guid>e0b29ec7-738d-5adc-970c-d48243519fa7</podcast:guid>
@@ -31,6 +31,23 @@ It’s the real story of building in web3: the wins, the chaos, and the lessons 
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Business"/>
     <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title><![CDATA[CEO and Co-Founder of Theoriq: Understanding Agent Collectives in AI]]></title>
+      <itunes:title><![CDATA[CEO and Co-Founder of Theoriq: Understanding Agent Collectives in AI]]></itunes:title>
+      <description><![CDATA[<p>In this episode, Ron Bodkin explores the intersection of AI and crypto, emphasizing responsibility, governance, and the transformative potential of Web3. He shares his journey from Google to founding Theoric and ChainML, reflecting on the shift from corporate AI leadership to startup innovation. </p><p></p><p>The discussion covers agent collectives, challenges in AI standardization, and metrics for decentralized AI success. Ron also introduces Proof of Contribution and Collaboration as trust-building mechanisms in AI, along with Theoric’s core pillars—interoperability, composability, and decentralized innovation. </p><p></p><p>He delves into token economics, governance, and company culture, concluding with insights on leadership and the future of AI.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2422158</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2422158/unhashed-podcast/2025_12_31_15_07_43_0f752c27-4844-4a47-a1c4-16a9de4d77ee.mp3" length="55601620" type="audio/mpeg"/>
+      <guid isPermaLink="false">16ee558e-4a80-4561-a580-d06865ed16b9</guid>
+      <itunes:duration>2912</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 31 Dec 2025 15:07:51 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20251231_031214_41446daf112378ca53b8e926a8242da4.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Uma Roy | Co-Founder of Succinct Labs : Why Zero Knowledge is Key to Scaling Crypto]]></title>
       <itunes:title><![CDATA[Uma Roy | Co-Founder of Succinct Labs : Why Zero Knowledge is Key to Scaling Crypto]]></itunes:title>
