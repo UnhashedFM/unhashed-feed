@@ -32,6 +32,23 @@ It’s the real story of building in web3: the wins, the chaos, and the lessons 
     <itunes:category text="Business"/>
     <podcast:medium>podcast</podcast:medium>
     <item>
+      <title><![CDATA[Avery Ching | CTO and Co-Founder of Aptos Labs : Decoding the Aptos Ecosystem]]></title>
+      <itunes:title><![CDATA[Avery Ching | CTO and Co-Founder of Aptos Labs : Decoding the Aptos Ecosystem]]></itunes:title>
+      <description><![CDATA[<p>Avery Ching shares his outlook on the intersection of crypto and AI, the fundraising process for Aptos Labs, and the key differences between Aptos and other Layer 1s like Solana and Ethereum. He further discusses the use cases for Aptos, the challenges of the Move programming language, and Aptos' future goals.</p><p>Avery is the CTO and Co-Founder of Aptos Labs. He has spent over a decade building distributed technologies and scaling them to billions of users worldwide. Prior to co-founding Aptos Labs, Avery led the crypto platform team at Meta, focusing on all aspects of blockchain technology, from wallet infrastructure to L1 blockchain development—most notably the Diem blockchain.</p><p>We hope you enjoy Avery’s conversation with hosts Kenzi Watanabe, Sachi Mihara, and Diksha Lyer, where he talks in-depth about his Web3 X AI journey.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2437748</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2437748/unhashed-podcast/2026_01_07_23_09_14_6c3c543a-5175-4434-8f97-74c3f6a19447.mp3" length="60981141" type="audio/mpeg"/>
+      <guid isPermaLink="false">a25eda65-5be9-4075-b094-00544991a947</guid>
+      <itunes:duration>3186</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 07 Jan 2026 23:10:23 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20260107_110131_e6281355c7fff1214a24072b8c418ba5.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Michael Heinrich | Founder of 0G Labs : Building The First Modular AI Chain]]></title>
       <itunes:title><![CDATA[Michael Heinrich | Founder of 0G Labs : Building The First Modular AI Chain]]></itunes:title>
       <description><![CDATA[<p>Michael discusses his journey from high school boredom to founding 0G Labs, the first modular AI Chain. Discover how spiritual readings and meditation changed Michael's leadership style helping him achieve success as a founder. </p><p>He shares the potential of decentralized AI infrastructure and why a community-owned approach is crucial for the future of AI and data. 0G Labs develops a technology blockchain platform. The Company offers an AI blockchain web3 modular platform that delivers advanced tools and applications that connect decentralized networks to unlock data infrastructure storage through machine learning solutions for businesses. </p><p>We hope you enjoy Michael’s conversation with hosts Kenzi Watanabe, Sachi Mihara, and Diksha Lyer, where he talks in-depth about his Web3 X AI journey.</p>]]></description>
