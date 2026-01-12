@@ -32,6 +32,23 @@ It’s the real story of building in web3: the wins, the chaos, and the lessons 
     <itunes:category text="Business"/>
     <podcast:medium>podcast</podcast:medium>
     <item>
+      <title><![CDATA[Jay Jog | Co-Founder of Sei Labs : The EVM's Dominance And Its Limitations]]></title>
+      <itunes:title><![CDATA[Jay Jog | Co-Founder of Sei Labs : The EVM's Dominance And Its Limitations]]></itunes:title>
+      <description><![CDATA[<p>In this conversation, Jay from Sei Labs discusses the parallels between established cities and virtual machines, emphasizing the challenges of displacing dominant systems like the EVM. He shares his journey from traditional finance at Robinhood to now building Sei Network in Web3, highlighting the importance of user feedback and the need for higher throughput in blockchain technology. Jay introduces the concept of parallelization as a solution to current limitations and reflects on the role of memecoins in fostering community movements. </p><p></p><p>We hope you enjoy listening to his Web3 founder journey with hosts Kenzi Watanabe , Sachi Mihara and Diksha Lyer.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2456636</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2456636/unhashed-podcast/2026_01_12_22_50_24_84b992f2-0df5-45f7-990d-0939b01df357.mp3" length="47847840" type="audio/mpeg"/>
+      <guid isPermaLink="false">6d5391eb-6aaa-40a4-8a0d-1aa48742575d</guid>
+      <itunes:duration>2587</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 12 Jan 2026 22:50:50 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20260112_100156_aae2e3ec83760d6f242c3c1281f4c5cf.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Avery Ching | CTO and Co-Founder of Aptos Labs : Decoding the Aptos Ecosystem]]></title>
       <itunes:title><![CDATA[Avery Ching | CTO and Co-Founder of Aptos Labs : Decoding the Aptos Ecosystem]]></itunes:title>
       <description><![CDATA[<p>Avery Ching shares his outlook on the intersection of crypto and AI, the fundraising process for Aptos Labs, and the key differences between Aptos and other Layer 1s like Solana and Ethereum. He further discusses the use cases for Aptos, the challenges of the Move programming language, and Aptos' future goals.</p><p>Avery is the CTO and Co-Founder of Aptos Labs. He has spent over a decade building distributed technologies and scaling them to billions of users worldwide. Prior to co-founding Aptos Labs, Avery led the crypto platform team at Meta, focusing on all aspects of blockchain technology, from wallet infrastructure to L1 blockchain development—most notably the Diem blockchain.</p><p>We hope you enjoy Avery’s conversation with hosts Kenzi Watanabe, Sachi Mihara, and Diksha Lyer, where he talks in-depth about his Web3 X AI journey.</p>]]></description>
