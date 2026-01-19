@@ -32,6 +32,23 @@ It’s the real story of building in web3: the wins, the chaos, and the lessons 
     <itunes:category text="Business"/>
     <podcast:medium>podcast</podcast:medium>
     <item>
+      <title><![CDATA[Anna Kazlauskas | CEO and Co-Founder of Vana : Solving AI's Data Dilemma]]></title>
+      <itunes:title><![CDATA[Anna Kazlauskas | CEO and Co-Founder of Vana : Solving AI's Data Dilemma]]></itunes:title>
+      <description><![CDATA[<p>Anna Kazlauskas discusses her path from traditional finance to the world of decentralized AI. She describes what it’s like building Vana, a platform that lets people own their data and contribute it to AI models, and explains why tokenomics plays an important role in their setup. Anna also discusses the challenges of starting a Web3 company, including how important it is to hire people who share the same mission. She dives into the AI data shortage and how Vana tackles this with decentralized data ownership and data DAOs. Other key topics include the difference between data DAOs, trusts, and unions, why private data is valuable, and lessons from projects like the Reddit Data DAO. </p><p>This episode has a lot to offer for anyone interested in the future of AI, data ownership, and building in Web3. Listen to Anna's founder journey with hosts Kenzi Watanabe, Sachi Mihara and Diksha Lyer.</p>]]></description>
+      <link>https://rss.com/podcasts/unhashed-podcast/2469324</link>
+      <enclosure url="https://content.rss.com/episodes/362118/2469324/unhashed-podcast/2026_01_19_15_55_21_4fbb164b-fd7c-490f-95bb-acbc244c5fe9.mp3" length="63041774" type="audio/mpeg"/>
+      <guid isPermaLink="false">d8c209a9-db54-4c35-b664-da492be0c704</guid>
+      <itunes:duration>3373</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 19 Jan 2026 15:55:45 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/unhashed-podcast/ep_cover_20260119_030140_0f25a854e839fc468142a7721cffdf12.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Jay Jog | Co-Founder of Sei Labs : The EVM's Dominance And Its Limitations]]></title>
       <itunes:title><![CDATA[Jay Jog | Co-Founder of Sei Labs : The EVM's Dominance And Its Limitations]]></itunes:title>
       <description><![CDATA[<p>In this conversation, Jay from Sei Labs discusses the parallels between established cities and virtual machines, emphasizing the challenges of displacing dominant systems like the EVM. He shares his journey from traditional finance at Robinhood to now building Sei Network in Web3, highlighting the importance of user feedback and the need for higher throughput in blockchain technology. Jay introduces the concept of parallelization as a solution to current limitations and reflects on the role of memecoins in fostering community movements. </p><p></p><p>We hope you enjoy listening to his Web3 founder journey with hosts Kenzi Watanabe , Sachi Mihara and Diksha Lyer.</p>]]></description>
